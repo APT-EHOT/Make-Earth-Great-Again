@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Make Earth Green Again</string>
+    <string name="transparent">MAKE EARTH GREAT AGAIN</string>
+    <string name="first_menu_button">Играть</string>
+    <string name="second_menu_button">Настройки</string>
+    <string name="delete_button">Сброс</string>
+</resources>
